@@ -16,21 +16,21 @@ RentEase Ethiopia is a mobile application designed to simplify the process of re
 
 ### Clothing Listings (CRUD):
 
-**Create**: Clothing owners or boutiques can add new clothing listings with details such as photos, type of outfit (e.g., Habesha Kemis, Netela), size, price, and location.
-**Read**: Renters can view all available clothing listings and filter them based on their preferences (e.g., type, size, price range).
-**Update**: Clothing owners or boutiques can edit or update their clothing listings at any time.
-**Delete**: Clothing owners or boutiques can remove clothing listings that are no longer available.
+**Create**: Clothing owners or boutiques can add new clothing listings with details such as photos, type of outfit (e.g., Habesha Kemis, Netela), size, price, and location.<br/>
+**Read**: Renters can view all available clothing listings and filter them based on their preferences (e.g., type, size, price range).<br/>
+**Update**: Clothing owners or boutiques can edit or update their clothing listings at any time.<br/>
+**Delete**: Clothing owners or boutiques can remove clothing listings that are no longer available.<br/>
 
 #### User Profiles (CRUD):
 
-**Create**: Users (renters, clothing owners, or boutiques) can create profiles with personal information, contact details, and preferences.
-**Read**: Users can view their own profiles.
-**Update**: Users can edit and update their profiles as needed.
-**Delete**: Users can delete their profiles if they no longer wish to use the app.
+**Create**: Users (renters, clothing owners, or boutiques) can create profiles with personal information, contact details, and preferences.<br/>
+**Read**: Users can view their own profiles.<br/>
+**Update**: Users can edit and update their profiles as needed.<br/>
+**Delete**: Users can delete their profiles if they no longer wish to use the app.<br/>
 
 ### Admin Dashboard (CRUD):
 
-**Create**: Admins can add new users (e.g., clothing owners, boutiques, or renters) manually if needed.
-**Read**: Admins can view all users, clothing listings, and app activity.
-**Update**: Admins can edit or update user profiles, clothing listings, and app settings.
-**Delete**: Admins can remove users or clothing listings that violate app policies.
+**Create**: Admins can add new users (e.g., clothing owners, boutiques, or renters) manually if needed.<br/>
+**Read**: Admins can view all users, clothing listings, and app activity.<br/>
+**Update**: Admins can edit or update user profiles, clothing listings, and app settings.<br/>
+**Delete**: Admins can remove users or clothing listings that violate app policies.<br/>
