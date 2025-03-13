@@ -14,21 +14,21 @@ RentEase Ethiopia is a mobile application designed to simplify the process of re
 
 ## Key Features
 
-### Clothing Listings (CRUD):
+##i. Clothing Listings (CRUD):
 
 **Create**: Clothing owners or boutiques can add new clothing listings with details such as photos, type of outfit (e.g., Habesha Kemis, Netela), size, price, and location.<br/>
 **Read**: Renters can view all available clothing listings and filter them based on their preferences (e.g., type, size, price range).<br/>
 **Update**: Clothing owners or boutiques can edit or update their clothing listings at any time.<br/>
 **Delete**: Clothing owners or boutiques can remove clothing listings that are no longer available.<br/>
 
-#### User Profiles (CRUD):
+##ii. User Profiles (CRUD):
 
 **Create**: Users (renters, clothing owners, or boutiques) can create profiles with personal information, contact details, and preferences.<br/>
 **Read**: Users can view their own profiles.<br/>
 **Update**: Users can edit and update their profiles as needed.<br/>
 **Delete**: Users can delete their profiles if they no longer wish to use the app.<br/>
 
-### Admin Dashboard (CRUD):
+##iii. Admin Dashboard (CRUD):
 
 **Create**: Admins can add new users (e.g., clothing owners, boutiques, or renters) manually if needed.<br/>
 **Read**: Admins can view all users, clothing listings, and app activity.<br/>
