@@ -1,4 +1,4 @@
-# Title - RentEase Ethiopia Traditional Clothing Renting Service
+# Title - RentHabesha Traditional Clothing Renting Mobile App
 ## Group Members Name and ID
 | NAME                  | ID            |
 | ----------------------| ------------- |
@@ -10,15 +10,15 @@
 
 
 ## Project Overview
-RentEase Ethiopia is a mobile application designed to simplify the process of renting traditional Ethiopian clothing. The app serves as a platform where clothing owners or boutiques can list their traditional outfits for rent, and renters can easily browse, search, and book outfits for special occasions. The goal of RentEase Ethiopia is to create a seamless, transparent, and efficient experience for both clothing owners and renters, while promoting and preserving Ethiopian cultural heritage.
+RentHabesha is a mobile application designed to simplify the process of renting traditional Ethiopian clothing. The app serves as a platform where clothing owners or boutiques can list their traditional outfits for rent, and renters can easily browse, search, and book outfits for special occasions. The goal of RentHabesha is to create a seamless, transparent, and efficient experience for both clothing owners and renters, while promoting and preserving Ethiopian cultural heritage.
 
 ## Key Features
 
 ## i. Clothing Listings (CRUD):
 
-**Create**: Clothing owners or boutiques can add new clothing listings with details such as photos, type of outfit (e.g., Habesha Kemis, Netela), size, price, and location.<br/>
+**Create**: Clothing owners or boutiques can add new clothing listings with details such as photos, type of outfit, size, price, and location.<br/>
 
-**Read**: Renters can view all available clothing listings and filter them based on their preferences (e.g., type, size, price range).<br/>
+**Read**: Renters can view all available clothing listings and filter them based on their preferences.<br/>
 
 **Update**: Clothing owners or boutiques can edit or update their clothing listings at any time.<br/>
 
