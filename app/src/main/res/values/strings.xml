@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">RentHabesha</string>
+    <string name="sign_in">Sign In</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="complete_profile">Complete Your Profile</string>
+    <string name="phone_num">Phone Number</string>
+    <string name="gender">Gender</string>
+    <string name="complete_profile_butn">Complete Profile</string>
+    <string name="your_location_headline">What location your are in?</string>
+    <string name="your_location_label">Your Location</string>
+    <string name="location">Location</string>
+    <string name="add_location">Add Location</string>
+    <string name="add_location_description">We need to know your location in order to suggest nearby services</string>
+    <string name="fullname">Full Name</string>
+    <string name="create_account">Create Account\n</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="pw_mang">Password Manager</string>
+    <string name="curr_pass">Current Password</string>
+    <string name="new_pass">New Password</string>
+    <string name="conf_pass">Confirm New Password</string>
+    <string name="hide_pass">**********</string>
+    <string name="change_pass">Change</string>
+    <string name="forg_pass">Forgot Password?</string>
+    <string name="welcome_screen_button_text">Let\'s Get Started</string>
+    <string name="add">Add</string>
+    <string name="update">Update</string>
+    <string name="get_started">Let’s Get Started</string>
+</resources>
